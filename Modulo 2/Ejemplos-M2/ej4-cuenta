@@ -1,0 +1,9 @@
+#!/usr/bin/env python3
+from time import sleep
+# -*- coding: utf-8 -*-
+i = 1
+while i < 11:
+    print(i)
+    sleep(1)
+    i = i + 1 # Tambien se puede escribir i += 1
+ 
